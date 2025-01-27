@@ -1,0 +1,28 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Virtual Environment
+venv/
+env/
+
+# Environment Variables
+.env
+
+# Streamlit-specific
+.streamlit/
+
+# Byte-compiled
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# MacOS-specific
+.DS_Store
+
+# Git-related
+.git/
