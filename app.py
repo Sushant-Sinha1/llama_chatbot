@@ -82,4 +82,4 @@ for role, message in st.session_state.chat_history:
 # Footer Section
 st.markdown("---")
 st.markdown("💡 **Pro Tip**: Try asking me to summarize text, solve math problems, or explain complex topics!")
-st.markdown("🔗 [GitHub Repo](https://github.com/sushant-sinha1) | 🌟 Powered by LangChain, Ollama, and Streamlit")
+st.markdown("🔗 [GitHub Repo](https://github.com/Sushant-Sinha1) | 🌟 Powered by LangChain, Ollama, and Streamlit")
